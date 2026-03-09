@@ -27,15 +27,16 @@ E 1 posição aberta, que é justamente a vaga para a qual você está concorren
 Slide 3 – Visão Geral
 Aqui vai um texto pronto, claro e direto, para você usar ao apresentar o INFRAFACIL:
 
-“O InfraFacil é uma plataforma desenvolvida para centralizar e simplificar a gestão de demandas internas relacionadas à infraestrutura. Ele conecta usuários, analistas e desenvolvedores em um fluxo único, rastreável e organizado, garantindo padronização, agilidade no atendimento e visibilidade completa do ciclo de vida das solicitações.”
+“O INFRAFACIL é um sistema corporativo da CAIXA, utilizado por praticamente todas as áreas internas para solicitar, acompanhar e gerenciar demandas relacionadas à infraestrutura de TI. Ele centraliza processos que antes eram dispersos, garantindo padronização, rastreabilidade e agilidade no atendimento.”
 
-Slide 4 – Objetivos do Projeto
 
-Centralizar todas as demandas de infraestrutura.
-Melhorar a previsibilidade das entregas.
-Proporcionar rastreabilidade ponta a ponta.
-Aumentar eficiência operacional.
-Reduzir retrabalho por falhas de comunicação.
+“Hoje, qualquer colaborador da CAIXA que precise abrir uma solicitação de infraestrutura — seja um acesso, uma atualização, uma manutenção, uma configuração ou qualquer tipo de intervenção técnica — utiliza o INFRAFACIL como ponto único de entrada. Isso garante organização, controle e histórico completo das demandas.”
+
+
+“Nós, da SONDA, somos a equipe responsável por manter o INFRAFACIL em pleno funcionamento. Atuamos em todas as necessidades do sistema: desde correções de bugs, ajustes operacionais, melhorias evolutivas, demandas de negócio, até novos módulos e funcionalidades. Trabalhamos garantindo que o sistema esteja sempre estável, seguro, atualizado e aderente às necessidades da CAIXA.”
+
+
+“Todas as mudanças no sistema — pequenas ou grandes — passam por nós: análise de requisitos, desenvolvimento, testes e homologação. Esse fluxo contínuo faz do INFRAFACIL um sistema vivo, que evolui constantemente, acompanhando a operação e as exigências internas da instituição.”
 
 
 4. Como Trabalhamos – Fluxo do Processo
