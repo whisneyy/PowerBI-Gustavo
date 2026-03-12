@@ -1,3 +1,6 @@
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRYVHp2T2I2OF94VW40QnAxbXVNaV9KNm5tQXxBQ3Jtc0trNmhYS3Q1LWM2SldBZkRGX0ZXNUV2SHItNDA5OVhHaS1vVVpQNUJUYmE4MWlqNkdCSlhiRVhSTXJzZ1Nfc0t5RzhZdEx2REh4VG1SVlotX0kzSVhfbTVGQkpTV3M2OFBKQURUTmpxbjJpM3ZZdmNXOA&q=https%3A%2F%2Fclaude.ai%2Freferral%2Fd-vP6sDmkQ&v=KfsLg8WfMRE
+
+
 ROTEIRO COMPLETO DA SUA APRESENTAÇÃO – INFRAFACIL
 A seguir está um texto estruturado em seções, com linguagem profissional, natural e adequada para entrevistas internas. Basta copiar para seu PPT ou usar como fala.
 
