@@ -1,185 +1,169 @@
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRYVHp2T2I2OF94VW40QnAxbXVNaV9KNm5tQXxBQ3Jtc0trNmhYS3Q1LWM2SldBZkRGX0ZXNUV2SHItNDA5OVhHaS1vVVpQNUJUYmE4MWlqNkdCSlhiRVhSTXJzZ1Nfc0t5RzhZdEx2REh4VG1SVlotX0kzSVhfbTVGQkpTV3M2OFBKQURUTmpxbjJpM3ZZdmNXOA&q=https%3A%2F%2Fclaude.ai%2Freferral%2Fd-vP6sDmkQ&v=KfsLg8WfMRE
+Cenário: Durante uma reunião, o usuário diz:
+
+“O sistema precisa ser intuitivo para qualquer pessoa usar.”
+
+Como analista de requisitos, registrar essa frase exatamente como requisito não funcional é suficiente neste momento.
+
+Resposta: E
+Racional: “Intuitivo” é subjetivo. O AR deve investigar critérios objetivos (ex.: tempo de aprendizado, taxa de erro, padrões UX).
 
 
-ROTEIRO COMPLETO DA SUA APRESENTAÇÃO – INFRAFACIL
-A seguir está um texto estruturado em seções, com linguagem profissional, natural e adequada para entrevistas internas. Basta copiar para seu PPT ou usar como fala.
+22)
+Cenário: O desenvolvedor pede esclarecimento sobre um requisito ambíguo já aprovado pelo cliente.
+A responsabilidade de esclarecer o requisito é do desenvolvedor, pois ele está implementando.
 
-1. Abertura / Apresentação Pessoal
-Slide 1 – Quem sou eu
-
-“Meu nome é Whisney Ferraz, sou Analista de Requisitos dentro da equipe do InfraFacil. Atuo diretamente na elicitação, documentação e gestão de requisitos, garantindo alinhamento entre negócio e desenvolvimento. Hoje estou conduzindo o processo de seleção para a vaga de Analista de Requisitos que está em aberto na nossa equipe.”
-
-
-2. Sobre a Equipe INFRAFACIL
-Slide 2 – Estrutura da Equipe
-
-“A equipe do InfraFacil é composta atualmente por:
-
-1 Gestor
-5 Desenvolvedores
-1 Tester
-4 Analistas de Requisitos
-E 1 posição aberta, que é justamente a vaga para a qual você está concorrendo.”*
+Resposta: E
+Racional: O AR é responsável por esclarecer, refinar e alinhar entendimento entre negócio e técnica.
 
 
+23)
+Cenário: O cliente solicita uma nova funcionalidade após o início do desenvolvimento.
+O Analista de Requisitos deve registrar a solicitação, analisar impacto e discutir priorização antes da implementação.
 
-“Trabalhamos com forte colaboração entre devs e ARs, priorizando clareza, comunicação objetiva e entregas contínuas.”
-
-
-3. O que é o Projeto INFRAFACIL
-Slide 3 – Visão Geral
-Aqui vai um texto pronto, claro e direto, para você usar ao apresentar o INFRAFACIL:
-
-“O INFRAFACIL é um sistema corporativo da CAIXA, utilizado por praticamente todas as áreas internas para solicitar, acompanhar e gerenciar demandas relacionadas à infraestrutura de TI. Ele centraliza processos que antes eram dispersos, garantindo padronização, rastreabilidade e agilidade no atendimento.”
+Resposta: C
+Racional: Gestão de mudanças é parte central do papel do AR.
 
 
-“Hoje, qualquer colaborador da CAIXA que precise abrir uma solicitação de infraestrutura — seja um acesso, uma atualização, uma manutenção, uma configuração ou qualquer tipo de intervenção técnica — utiliza o INFRAFACIL como ponto único de entrada. Isso garante organização, controle e histórico completo das demandas.”
+24)
+Cenário: Um requisito diz:
+
+“O sistema deve permitir cadastro de clientes.”
+
+Esse requisito está completo e não precisa de mais detalhes.
+
+Resposta: E
+Racional: Falta regra de campos, validações, perfis, exceções, fluxos, critérios de aceite etc.
 
 
-“Nós, da SONDA, somos a equipe responsável por manter o INFRAFACIL em pleno funcionamento. Atuamos em todas as necessidades do sistema: desde correções de bugs, ajustes operacionais, melhorias evolutivas, demandas de negócio, até novos módulos e funcionalidades. Trabalhamos garantindo que o sistema esteja sempre estável, seguro, atualizado e aderente às necessidades da CAIXA.”
+25)
+Cenário: Dois usuários de áreas diferentes pedem comportamentos diferentes para a mesma funcionalidade.
+O Analista de Requisitos deve identificar o conflito e facilitar a decisão junto aos stakeholders.
+
+Resposta: C
+Racional: O AR atua como mediador e facilitador de decisões, não apenas “anotador”.
 
 
-“Todas as mudanças no sistema — pequenas ou grandes — passam por nós: análise de requisitos, desenvolvimento, testes e homologação. Esse fluxo contínuo faz do INFRAFACIL um sistema vivo, que evolui constantemente, acompanhando a operação e as exigências internas da instituição.”
+26)
+Cenário: Um requisito depende de integração com um sistema externo que ainda não existe.
+Mesmo assim, o requisito pode ser documentado, desde que a dependência e os riscos estejam claros.
+
+Resposta: C
+Racional: Dependências devem ser explicitadas; não impedem documentação.
 
 
-4. Como Trabalhamos – Fluxo do Processo
-Slide 5 – Fluxo Geral (AR → Dev → Entrega)
+27)
+Cenário: Um requisito não funcional de desempenho foi definido verbalmente, mas não documentado.
+Isso não gera risco, pois a equipe já está ciente.
 
-“Nosso fluxo de trabalho segue um modelo orientado a requisitos e ciclos curtos de entrega. O Analista de Requisitos exerce papel central, garantindo que a necessidade do negócio esteja clara antes do desenvolvimento.”
-
-Fluxo resumido:
-
-Levantamento da demanda com o solicitante.
-Análise e entendimento do problema.
-Documentação dos requisitos: funcionais, não funcionais e regras de negócio.
-Especificação no Azure DevOps.
-Refinamento com o time de desenvolvimento.
-Acompanhamento da evolução das tasks.
-Validação com o solicitante.
-Entrega e homologação final.
+Resposta: E
+Racional: O que não está documentado não é controlável nem rastreável.
 
 
-5. Gestão no Azure DevOps
-Slide 6 – Como organizamos o projeto dentro do Azure DevOps
+28)
+Cenário: O PO afirma:
 
-“Dentro do Azure DevOps utilizamos Boards para gerenciar todo o ciclo de vida da demanda, desde a criação até a entrega. Trabalhamos com um fluxo padronizado, garantindo rastreabilidade completa dos requisitos.”
+“Não precisamos de critérios de aceite, isso fica a cargo do time de testes.”
 
-Elementos principais que você pode mencionar:
-Work Items utilizados
+Essa afirmação está correta.
 
-Epic (grandes áreas do projeto)
-Feature (módulos relevantes)
-User Stories (o que deve ser entregue)
-Tasks (quebras técnicas)
-Bugs (correções)
-
-Como organizamos
-
-Planejamento semanal ou quinzenal
-Refinamento colaborativo
-Cada requisito possui:
-
-Descrição clara
-Critérios de aceite
-Regras de negócio
-Anexos, prints, diagramas quando necessário
-Testes associados
+Resposta: E
+Racional: Critérios de aceite fazem parte da definição do requisito e orientam testes e desenvolvimento.
 
 
+29)
+Cenário: Um requisito está claro para o time técnico, mas o usuário não consegue entendê-lo.
+Nesse caso, o requisito pode ser considerado bem especificado.
 
-Controle e Acompanhamento
-
-Campos obrigatórios para rastreabilidade
-Tags para classificação
-Painel Kanban para acompanhamento
-Relatórios e métricas gerenciais
-Homologação registrada dentro do próprio item
+Resposta: E
+Racional: Requisitos devem ser compreensíveis para todos os stakeholders relevantes.
 
 
-6. Perguntas para Avaliar o Candidato (Essenciais)
-Aqui vão 3 perguntas fortes, desenhadas para medir maturidade real do candidato como Analista de Requisitos:
+30)
+Cenário: Durante a validação, o usuário diz:
 
-Pergunta 1 – Elicitação
-“Quando você recebe uma demanda que chega pouco clara, como é seu processo para transformar essa necessidade em requisitos compreensíveis e desenvolvíveis?”
-O que você vai observar:
+“Não era bem isso que eu imaginei.”
 
-Capacidade de comunicação
-Técnicas de elicitação
-Perguntas certas
-Organização e clareza
+Isso indica falha na validação ou no levantamento de requisitos.
+
+Resposta: C
+Racional: Indica problema de entendimento, comunicação ou validação prévia.
 
 
-Pergunta 2 – Documentação
-“Como você diferencia e registra requisitos funcionais, requisitos não funcionais e regras de negócio?”
-O que você vai observar:
+31)
+Cenário: O sistema tratará dados pessoais de clientes.
+Levantar requisitos relacionados à LGPD é responsabilidade do time jurídico, não do analista de requisitos.
 
-Domínio técnico
-Estrutura
-Experiência real
-
-
-Pergunta 3 – Gestão e Acompanhamento
-“Depois que a demanda entra no DevOps, como você acompanha o ciclo até a entrega e garante que o que foi desenvolvido atende exatamente ao que foi solicitado?”
-O que você vai observar:
-
-Gestão de backlog
-Critérios de aceite
-Comunicação com devs
-Capacidade de validação
-
-1. Pergunta sobre Elicitação de Requisitos
-Pergunta: “Quando você recebe uma demanda pouco clara, como transforma essa necessidade em requisitos compreensíveis e desenvolvíveis?”
-Resposta explicativa curta (caso o candidato trave):
-
-“Nessa pergunta, o que esperamos é que o analista demonstre capacidade de clarear uma demanda confusa.
-O processo padrão envolve conversar com o solicitante, levantar dúvidas, identificar o problema real, entender a regra de negócio e só depois transformar tudo em requisitos estruturados.
-Geralmente usamos técnicas como entrevistas, perguntas abertas, análise do cenário atual e documentação progressiva até chegar a um entendimento comum com o solicitante.”
+Resposta: E
+Racional: O AR deve levantar requisitos de conformidade e envolver jurídico quando necessário.
 
 
-✅ 2. Pergunta sobre Documentação de Requisitos
-Pergunta: “Como você diferencia e registra requisitos funcionais, não funcionais e regras de negócio?”
-Resposta explicativa curta (caso o candidato não saiba responder):
+32)
+Cenário: Um requisito é considerado pronto quando o usuário diz que “parece bom”.
+Isso é suficiente para seguir para desenvolvimento.
 
-“Aqui buscamos entender se o analista conhece os tipos de requisitos.
-Requisitos funcionais descrevem o que o sistema deve fazer — ações, funcionalidades e comportamentos.
-Requisitos não funcionais tratam de como o sistema deve se comportar — desempenho, segurança, usabilidade, disponibilidade.
-Já as regras de negócio são decisões, cálculos ou condições que pertencem ao domínio e orientam o funcionamento do sistema.
-Cada um desses elementos precisa ser registrado de forma clara e separada para evitar ambiguidades e garantir rastreabilidade.”
+Resposta: E
+Racional: É necessário critério objetivo, aceite claro e entendimento compartilhado.
 
 
-✅ 3. Pergunta sobre Gestão no Azure DevOps e Acompanhamento
-Pergunta: “Depois que a demanda entra no DevOps, como você acompanha o ciclo até a entrega?”
-Resposta explicativa curta (caso o candidato não responda bem):
+33)
+Cenário: Um fluxo possui exceções e erros possíveis.
+Documentar apenas o fluxo principal já é suficiente para iniciar o desenvolvimento.
 
-“O que esperamos aqui é que o analista entenda sua responsabilidade depois da documentação.
-No DevOps, o analista acompanha o andamento da user story, participa dos refinamentos com os desenvolvedores, ajusta requisitos se necessário, valida as entregas parciais e verifica se os critérios de aceite foram realmente atendidos.
-A função do analista não termina quando a história é criada — ele acompanha até homologação e aceitação final pelo solicitante.”
-
-1. Comunicação com áreas diferentes
-Pergunta:
-“Conte sobre uma situação em que você precisou explicar algo complexo para alguém que não tinha conhecimento técnico. Como você conduziu essa comunicação?”
-Texto curto caso o candidato não consiga responder:
-
-“O que buscamos aqui é avaliar se o analista consegue adaptar sua linguagem ao público.
-Um bom AR traduz termos técnicos para o negócio e vice-versa, usando exemplos, analogias e validação constante de entendimento.
-Comunicação clara é essencial para evitar retrabalho e falhas de interpretação entre áreas.”
+Resposta: E
+Racional: Exceções e erros impactam código, testes e experiência do usuário.
 
 
-✅ 2. Postura diante de conflitos ou divergências
-Pergunta:
-“Como você reage quando há divergência entre o que o solicitante pede e o que é tecnicamente possível entregar?”
-Texto curto caso o candidato não consiga responder:
+34)
+Cenário: Durante um workshop, surgem ideias fora do escopo atual.
+O Analista de Requisitos pode registrá-las como backlog futuro ou fora de escopo.
 
-“O objetivo desta pergunta é avaliar equilíbrio e postura profissional.
-Esperamos que o analista mantenha calma, busque fatos, apresente alternativas viáveis e trabalhe junto ao solicitante para alinhar expectativas.
-O analista não confronta — ele media, facilita e direciona para a solução mais adequada.”
+Resposta: C
+Racional: Registrar não significa comprometer escopo.
 
 
-✅ 3. Organização, priorização e gestão de demandas
-Pergunta:
-“Como você organiza seu trabalho quando precisa lidar com várias demandas ao mesmo tempo?”
-Texto curto caso o candidato não consiga responder:
+35)
+Cenário: O cliente pede urgência e quer pular a validação para ganhar tempo.
+Aceitar é uma boa prática para manter o cliente satisfeito.
 
-“Aqui queremos saber se o analista tem método e disciplina.
-O ideal é que ele mencione priorização por urgência/impacto, uso de listas, quadros Kanban, DevOps, acompanhamento frequente e comunicação antecipada sobre riscos ou atrasos.
-Organização é fundamental para manter fluxo estável e evitar gargalos no desenvolvimento.”
+Resposta: E
+Racional: Pular validação aumenta risco de retrabalho e insatisfação futura.
+
+
+36)
+Cenário: Um requisito técnico foi definido pela equipe de desenvolvimento.
+O Analista de Requisitos não precisa entender esse requisito.
+
+Resposta: E
+Racional: O AR precisa entender para avaliar impacto, rastreabilidade e alinhamento ao negócio.
+
+
+37)
+Cenário: O Analista de Requisitos percebe que um requisito não gera valor de negócio claro.
+Questionar e pedir esclarecimento faz parte do seu papel.
+
+Resposta: C
+Racional: O AR deve proteger valor e evitar desperdício.
+
+
+38)
+Cenário: Uma funcionalidade será usada por poucos usuários, mas é crítica para o negócio.
+Ela pode ser considerada alta prioridade.
+
+Resposta: C
+Racional: Prioridade é definida por valor e risco, não apenas volume de usuários.
+
+
+39)
+Cenário: Um requisito foi aprovado, mas nunca é utilizado pelo sistema.
+Isso indica possível falha de levantamento ou mudança de contexto não tratada.
+
+Resposta: C
+Racional: Requisitos inúteis indicam problema de análise ou gestão de mudanças.
+
+
+40)
+Cenário: O Analista de Requisitos documenta requisitos, mas não participa das revisões com o time técnico.
+Essa prática é adequada, pois evita interferência no desenvolvimento.
+
+Resposta: E
+Racional: Participação ativa reduz ambiguidades e retrabalho.
